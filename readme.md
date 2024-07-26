@@ -13,7 +13,7 @@
 
 ## 0. Ficha del proyecto
 
-### **0.1. Tu nombre completo:**
+### **0.1. Tu nombre completo: Jorge Iván Tabares Hernández**
 
 ### **0.2. Nombre del proyecto:**
 
