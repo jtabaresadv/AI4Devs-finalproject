@@ -13,20 +13,22 @@
 
 ## 0. Ficha del proyecto
 
-### **0.1. Tu nombre completo: Jorge Iván Tabares Hernández**
+### **0.1. Tu nombre completo:**
+Jorge Iván Tabares Hernández
 
 ### **0.2. Nombre del proyecto:**
+Zenn
 
 ### **0.3. Descripción breve del proyecto:**
+Zenn es un software-as-a-service que permite a pequeñas y medianas empresas resolver necesidades core del negocio a través del acceso democratico a la tecnología, combinando con la resolución de requerimientos back-office que garanticen el correcto funcionamiento del negocio.
+
+Esta solución se encuentra enfocada en verticales específicas, ofreciendo las soluciones a las principales necesidades de estas.
 
 ### **0.4. URL del proyecto:**
-
-> Puede ser pública o privada, en cuyo caso deberás compartir los accesos de manera segura. Puedes enviarlos a [alvaro@lidr.co](mailto:alvaro@lidr.co) usando algún servicio como [onetimesecret](https://onetimesecret.com/).
+www.zenn.me
 
 ### 0.5. URL o archivo comprimido del repositorio
-
-> Puedes tenerlo alojado en público o en privado, en cuyo caso deberás compartir los accesos de manera segura. Puedes enviarlos a [alvaro@lidr.co](mailto:alvaro@lidr.co) usando algún servicio como [onetimesecret](https://onetimesecret.com/). También puedes compartir por correo un archivo zip con el contenido
-
+https://github.com/jtabaresadv/AI4Devs-finalproject
 
 ---
 
